@@ -27,14 +27,14 @@ Dataset yang digunakan dalam proyek ini bersumber dari [Kaggle: Developer Burnou
 
 ## 🛠️ Tech Stack
 
-| Kategori                    | Teknologi yang Digunakan                                                             |
-| :-------------------------- | :----------------------------------------------------------------------------------- |
-| 🌐 **Programming Language** | `Python`                                                                             |
-| 🌱 **Environment**          | `Jupyter Notebook`                                                                   |
-| 🧩 **Framework**            | `Streamlit`                                                                          |
-| ⚛️ **Libraries**            | `pandas`, `matplotlib`, `seaborn`, `plotly`, `scikit-learn`, `statsmodels`, `Pillow` |
-| ⚡ **Tool**                 | `Google Colab`                                                                       |
-| 🚀 **Deployment**           | `Streamlit Community Cloud`                                                          |
+| Kategori                    | Teknologi yang Digunakan                                             |
+| :-------------------------- | :------------------------------------------------------------------- |
+| 🌐 **Programming Language** | `Python`                                                             |
+| 🌱 **Environment**          | `Jupyter Notebook`                                                   |
+| 🧩 **Framework**            | `Streamlit`                                                          |
+| ⚛️ **Libraries**            | `pandas`, `matplotlib`, `seaborn`, `plotly`, `statsmodels`, `Pillow` |
+| ⚡ **Tool**                 | `Google Colab`                                                       |
+| 🚀 **Deployment**           | `Streamlit Community Cloud`                                          |
 
 ---
 
